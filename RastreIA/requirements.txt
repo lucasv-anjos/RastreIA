@@ -1,0 +1,5 @@
+streamlit>=1.35
+pandas>=2.0
+networkx>=3.0
+plotly>=5.20
+# re e collections fazem parte da biblioteca padrão do Python (não precisam ser instalados)
